@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522137864 source:c:\wawycodeblock\guessgame\main.cpp
+	"..\include\GuessGame.h"
+
+1522157660 c:\wawycodeblock\guessgame\include\guessgame.h
+	<vector>
+
+1522157531 source:c:\wawycodeblock\guessgame\src\guessgame.cpp
+	"GuessGame.h"
+	<iostream>
+	<ctime>
+
